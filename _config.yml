@@ -1,3 +1,4 @@
 name: ICToolbox, Interpolating Control Toolbox
 markdown: kramdown
+mathjax: true
 permalink: /blog/:year/:month/:day/:title
