@@ -4,9 +4,19 @@ title: About, Interpolating Control Toolbox
 ---
 <div class="blurb">
 	<h1>Interpolating Control Toolbox!</h1>
+		
+<p>ICT is a free and open-source MATLAB toolbox for computing interpolation-based control of linear time-invariant (LTI) and 
+	time-varying (LTV) systems subject to local state and control constraints. 
+	The technique behind it is based on the interpolating control (IC) scheme introduced 
+	by [3], [4] and later extended by [8] for decentralised IC. The main idea of IC is to blend a 
+	local high-gain (inner) controller, which satisfies some user-desired performance specifications, 
+	with a global low-gain (outer) controller via interpolation. The two controllers are defined in some
+	invariant sets that are determined offline; the applied control is determined on-line with an
+	inexpensive interpolation between the two controllers. For the interpolation, a low-dimensional 
+	linear programming (LP) problem is solved at each time instant.</p>
 	
 	<h2>Relevant Publications</h2>
-	<ul>
+	<ol>
 		<li>F. Blanchini and S. Miani, Set-Theoretic Methods in Control. Birkhäuser Basel, 2008.</li>
 		<li>E. C. Kerrigan, "Robust constraint satisfaction: Invariant sets and predictive control," Ph.D. dissertation, University of Cambridge, United Kingdom, 2000.</li>
 		<li>H.-N. Nguyen, Constrained Control of Uncertain, Time-Varying, Discrete-Time Systems. Cham, Switzerland: Springer, 2014.</li>
@@ -15,5 +25,5 @@ title: About, Interpolating Control Toolbox
 		<li>E. G. Gilbert and K. T. Tan, “Linear systems with state and control constraints: the theory and application of maximal output admissible sets," IEEE Transactions on Automatic Control, vol. 36, no. 9, pp. 1008–1020, 1991.</li>
 		<li>P.-O. Gutman and M. Cwikel, “Admissible sets and feedback control for discrete-time linear dynamical systems with bounded controls and states,” IEEE Transactions on Automatic Control, vol. 31, no. 4, pp. 373–376, 1986.</li>
 		<li>S. Scialanga and K. Ampountolas, "Interpolating constrained control of interconnected systems," IFAC-PapersOnLine, vol. 51, no. 9, pp. 7–12, 2018.</li>
-	</ul>
+	</ol>
 </div><!-- /.blurb -->
