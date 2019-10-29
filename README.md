@@ -2,16 +2,15 @@
 
 The Interpolating Control Toolbox (or ICT for short) is an open source, Matlab-based toolbox for the constrained control of discrete-time linear systems.
 
-# How to cite ICT
+## How to cite ICT
 *  S. Scialanga and K. Ampountolas, "Interpolating Control Toolbox (ICT)," In: 2019 18th European Control Conference (ECC), Naples, Italy, June 25–28, 2019, pp. 2510–2515. [https://ictoolbox.github.io](https://ictoolbox.github.io)
 
 BibTex entry for use in latex (with \usepackage{url} in the premable):
-
 ```
 @INPROCEEDINGS{ICT, 
-author={S. {Scialanga} and K. {Ampountolas}}, 
+author={S. Scialanga and K. Ampountolas}, 
 booktitle={2019 18th European Control Conference (ECC)}, 
-title={Interpolating Control Toolbox (ICT)}, 
+title={{Interpolating Control Toolbox (ICT)}}, 
 year={2019}, 
 pages={2510--2515}, 
 address={Naples, Italy},
@@ -20,7 +19,7 @@ note = {\url{https://ictoolbox.github.io}}
 }
 ```
 
-# Relevant publications
+## Relevant publications
 - F. Blanchini and S. Miani, Set-Theoretic Methods in Control. Birkhäuser Basel, 2008.
 - E. C. Kerrigan, "Robust constraint satisfaction: Invariant sets and predictive control," Ph.D. dissertation, University of Cambridge, United Kingdom, 2000.
 - H.-N. Nguyen, Constrained Control of Uncertain, Time-Varying, Discrete-Time Systems. Cham, Switzerland: Springer, 2014.
