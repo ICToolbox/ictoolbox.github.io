@@ -34,3 +34,4 @@ note = {\url{https://ictoolbox.github.io}}
 - S. Scialanga, S. Olaru, K. Ampountolas, "Decentralised Interpolating Control: A Periodic Invariance Approach," In: 21st IFAC World Congress (Virtual) Berlin, Germany, July 12-17, 2020, pp. 5709-5714.
 - M. Soyer, S. Olaru, K. Ampountolas, S. Scialanga, Z. Fang, "Periodic set invariance as a tool for constrained reference tracking," IFAC-PapersOnLine 53 (2), pp. 6905-6910.
 - J. Tan, S. Olaru, K. Ampountolas, J. JM Molina, F. Xu, "A novel RPI set computation method for discrete-time LPV systems with bounded uncertainties," In: 2019 IEEE 15th International Conference on Control and Automation (ICCA), Edinburgh, UK, pp. 946-951.
+- S. Scialanga, S. Olaru, K. Ampountolas, "Reduced-complexity interpolating control with periodic invariant sets". International Journal of Control, [doi:10.1080/00207179.2021.2013540](https://doi.org/10.1080/00207179.2021.2013540), 2021.
